@@ -6,7 +6,7 @@ html, body
 
 body
 {
-background-image: linear-gradient(to right top, #fff3b1, #f18ee9, #f034e6, #8d37df, #7200be);
+background-image: linear-gradient(to right top, #ec7a9c, #df607c, #e64582, #bd0963);
 }
 
 .header
@@ -20,7 +20,7 @@ background-image: linear-gradient(to right top, #fff3b1, #f18ee9, #f034e6, #8d37
 
 .login_div
 {
-	background: rgba(240, 201, 255, 0.8);float: none;border-radius: 15px;
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
 }
 
 .logo
@@ -91,4 +91,8 @@ background-image: linear-gradient(to right top, #fff3b1, #f18ee9, #f034e6, #8d37
 .message_h4
 {
 	padding-left:5px;color:grey;
+}
+.button_pt
+{
+	color:coral;
 }
